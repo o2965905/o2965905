@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Riley 👋
+![image](%402x-Blog-Continuous-Learning-Update-animation.gif)
+***
 
 <!--
 **o2965905/o2965905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
